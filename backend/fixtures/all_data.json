@@ -1,0 +1,2347 @@
+[
+	{
+		"model": "admin.logentry",
+		"pk": 1,
+		"fields": {
+			"action_time": "2025-02-09T20:22:12.987Z",
+			"user": 1,
+			"content_type": 7,
+			"object_id": "1",
+			"object_repr": "┬шяЁюё√ў 1",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 2,
+		"fields": {
+			"action_time": "2025-02-09T20:22:22.714Z",
+			"user": 1,
+			"content_type": 7,
+			"object_id": "2",
+			"object_repr": "┬юяЁюё 2",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 3,
+		"fields": {
+			"action_time": "2025-02-09T20:41:43.753Z",
+			"user": 1,
+			"content_type": 7,
+			"object_id": "3",
+			"object_repr": "aye",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 4,
+		"fields": {
+			"action_time": "2025-02-13T15:56:32.352Z",
+			"user": 1,
+			"content_type": 8,
+			"object_id": "1",
+			"object_repr": "Bitmain",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 5,
+		"fields": {
+			"action_time": "2025-02-13T15:56:37.292Z",
+			"user": 1,
+			"content_type": 10,
+			"object_id": "1",
+			"object_repr": "BTC",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 6,
+		"fields": {
+			"action_time": "2025-02-13T15:56:47.369Z",
+			"user": 1,
+			"content_type": 9,
+			"object_id": "1",
+			"object_repr": "Antminer S21 Pro",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 7,
+		"fields": {
+			"action_time": "2025-02-13T15:58:35.956Z",
+			"user": 1,
+			"content_type": 8,
+			"object_id": "2",
+			"object_repr": "MicroBT",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 8,
+		"fields": {
+			"action_time": "2025-02-13T15:58:54.061Z",
+			"user": 1,
+			"content_type": 9,
+			"object_id": "2",
+			"object_repr": "M50S++ 164TH",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 9,
+		"fields": {
+			"action_time": "2025-02-13T16:41:49.487Z",
+			"user": 1,
+			"content_type": 8,
+			"object_id": "3",
+			"object_repr": "iPollo",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 10,
+		"fields": {
+			"action_time": "2025-02-13T18:20:54.170Z",
+			"user": 1,
+			"content_type": 9,
+			"object_id": "2",
+			"object_repr": "M50S++ 164TH",
+			"action_flag": 3,
+			"change_message": ""
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 11,
+		"fields": {
+			"action_time": "2025-02-13T18:20:54.170Z",
+			"user": 1,
+			"content_type": 9,
+			"object_id": "1",
+			"object_repr": "Antminer S21 Pro",
+			"action_flag": 3,
+			"change_message": ""
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 12,
+		"fields": {
+			"action_time": "2025-02-13T18:26:48.178Z",
+			"user": 1,
+			"content_type": 11,
+			"object_id": "1",
+			"object_repr": "SHA256",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 13,
+		"fields": {
+			"action_time": "2025-02-13T18:27:02.137Z",
+			"user": 1,
+			"content_type": 9,
+			"object_id": "1",
+			"object_repr": "Antminer S21 Pro",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 14,
+		"fields": {
+			"action_time": "2025-02-13T18:27:42.459Z",
+			"user": 1,
+			"content_type": 9,
+			"object_id": "2",
+			"object_repr": "M50S++ 164TH",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 15,
+		"fields": {
+			"action_time": "2025-02-13T19:33:11.351Z",
+			"user": 1,
+			"content_type": 10,
+			"object_id": "2",
+			"object_repr": "ETH",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 16,
+		"fields": {
+			"action_time": "2025-02-14T14:08:54.465Z",
+			"user": 1,
+			"content_type": 9,
+			"object_id": "3",
+			"object_repr": "Antminer S21 XP",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 17,
+		"fields": {
+			"action_time": "2025-02-14T14:39:44.447Z",
+			"user": 1,
+			"content_type": 9,
+			"object_id": "4",
+			"object_repr": "Antminer S21",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 18,
+		"fields": {
+			"action_time": "2025-02-15T13:01:00.197Z",
+			"user": 1,
+			"content_type": 9,
+			"object_id": "4",
+			"object_repr": "Antminer S21",
+			"action_flag": 2,
+			"change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e\"]}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 19,
+		"fields": {
+			"action_time": "2025-02-15T13:01:08.728Z",
+			"user": 1,
+			"content_type": 9,
+			"object_id": "3",
+			"object_repr": "Antminer S21 XP",
+			"action_flag": 2,
+			"change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e\"]}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 20,
+		"fields": {
+			"action_time": "2025-02-15T13:01:19.348Z",
+			"user": 1,
+			"content_type": 9,
+			"object_id": "2",
+			"object_repr": "M50S++ 164TH",
+			"action_flag": 2,
+			"change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e\"]}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 21,
+		"fields": {
+			"action_time": "2025-02-15T13:01:28.328Z",
+			"user": 1,
+			"content_type": 9,
+			"object_id": "1",
+			"object_repr": "Antminer S21 Pro",
+			"action_flag": 2,
+			"change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e\"]}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 22,
+		"fields": {
+			"action_time": "2025-02-15T20:20:28.046Z",
+			"user": 1,
+			"content_type": 9,
+			"object_id": "5",
+			"object_repr": "Antminer S19 XP",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 23,
+		"fields": {
+			"action_time": "2025-02-22T17:17:36.703Z",
+			"user": 1,
+			"content_type": 13,
+			"object_id": "1",
+			"object_repr": "╧рЁруЁрЇ",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 24,
+		"fields": {
+			"action_time": "2025-02-22T17:17:45.752Z",
+			"user": 1,
+			"content_type": 13,
+			"object_id": "2",
+			"object_repr": "╧рЁруЁрЇ",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 25,
+		"fields": {
+			"action_time": "2025-02-22T17:17:50.467Z",
+			"user": 1,
+			"content_type": 13,
+			"object_id": "3",
+			"object_repr": "╧рЁруЁрЇ",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 26,
+		"fields": {
+			"action_time": "2025-02-22T17:17:55.083Z",
+			"user": 1,
+			"content_type": 14,
+			"object_id": "1",
+			"object_repr": "What is Bitcoin Mining?",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 27,
+		"fields": {
+			"action_time": "2025-02-22T17:20:46.438Z",
+			"user": 1,
+			"content_type": 13,
+			"object_id": "4",
+			"object_repr": "╧рЁруЁрЇ",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 28,
+		"fields": {
+			"action_time": "2025-02-22T17:20:51.825Z",
+			"user": 1,
+			"content_type": 13,
+			"object_id": "5",
+			"object_repr": "╧рЁруЁрЇ",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 29,
+		"fields": {
+			"action_time": "2025-02-22T17:21:01.330Z",
+			"user": 1,
+			"content_type": 13,
+			"object_id": "6",
+			"object_repr": "╧рЁруЁрЇ",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 30,
+		"fields": {
+			"action_time": "2025-02-22T17:21:05.249Z",
+			"user": 1,
+			"content_type": 14,
+			"object_id": "2",
+			"object_repr": "Why Profitability Matters in Bitcoin Mining",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 31,
+		"fields": {
+			"action_time": "2025-02-22T17:21:18.696Z",
+			"user": 1,
+			"content_type": 13,
+			"object_id": "7",
+			"object_repr": "╧рЁруЁрЇ",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 32,
+		"fields": {
+			"action_time": "2025-02-22T17:21:26.033Z",
+			"user": 1,
+			"content_type": 13,
+			"object_id": "8",
+			"object_repr": "╧рЁруЁрЇ",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 33,
+		"fields": {
+			"action_time": "2025-02-22T17:21:30.891Z",
+			"user": 1,
+			"content_type": 13,
+			"object_id": "9",
+			"object_repr": "╧рЁруЁрЇ",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 34,
+		"fields": {
+			"action_time": "2025-02-22T17:21:31.660Z",
+			"user": 1,
+			"content_type": 14,
+			"object_id": "3",
+			"object_repr": "The Evolution of Bitcoin Mining A Brief History of Bitcoin Mining",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 35,
+		"fields": {
+			"action_time": "2025-02-22T17:22:22.677Z",
+			"user": 1,
+			"content_type": 13,
+			"object_id": "10",
+			"object_repr": "╧рЁруЁрЇ",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 36,
+		"fields": {
+			"action_time": "2025-02-22T17:22:27.163Z",
+			"user": 1,
+			"content_type": 13,
+			"object_id": "11",
+			"object_repr": "╧рЁруЁрЇ",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 37,
+		"fields": {
+			"action_time": "2025-02-22T17:22:32.685Z",
+			"user": 1,
+			"content_type": 13,
+			"object_id": "12",
+			"object_repr": "╧рЁруЁрЇ",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 38,
+		"fields": {
+			"action_time": "2025-02-22T17:22:34.522Z",
+			"user": 1,
+			"content_type": 14,
+			"object_id": "4",
+			"object_repr": "How Mining Has Changed Over the Years",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 39,
+		"fields": {
+			"action_time": "2025-02-22T17:22:46.651Z",
+			"user": 1,
+			"content_type": 12,
+			"object_id": "1",
+			"object_repr": "Is Bitcoin Mining Profitable in 2025?",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 40,
+		"fields": {
+			"action_time": "2025-02-22T17:24:40.779Z",
+			"user": 1,
+			"content_type": 13,
+			"object_id": "13",
+			"object_repr": "╧рЁруЁрЇ",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 41,
+		"fields": {
+			"action_time": "2025-02-22T17:24:48.137Z",
+			"user": 1,
+			"content_type": 13,
+			"object_id": "14",
+			"object_repr": "╧рЁруЁрЇ",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 42,
+		"fields": {
+			"action_time": "2025-02-22T17:24:54.012Z",
+			"user": 1,
+			"content_type": 13,
+			"object_id": "15",
+			"object_repr": "╧рЁруЁрЇ",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 43,
+		"fields": {
+			"action_time": "2025-02-22T17:25:08.951Z",
+			"user": 1,
+			"content_type": 14,
+			"object_id": "5",
+			"object_repr": "What is ASIC Mining?",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 44,
+		"fields": {
+			"action_time": "2025-02-22T17:25:27.653Z",
+			"user": 1,
+			"content_type": 13,
+			"object_id": "16",
+			"object_repr": "╧рЁруЁрЇ",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 45,
+		"fields": {
+			"action_time": "2025-02-22T17:25:32.824Z",
+			"user": 1,
+			"content_type": 13,
+			"object_id": "17",
+			"object_repr": "╧рЁруЁрЇ",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 46,
+		"fields": {
+			"action_time": "2025-02-22T17:25:39.766Z",
+			"user": 1,
+			"content_type": 13,
+			"object_id": "18",
+			"object_repr": "╧рЁруЁрЇ",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 47,
+		"fields": {
+			"action_time": "2025-02-22T17:25:40.955Z",
+			"user": 1,
+			"content_type": 14,
+			"object_id": "6",
+			"object_repr": "How ASIC Mining Differs from Other Mining Methods",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 48,
+		"fields": {
+			"action_time": "2025-02-22T17:25:47.397Z",
+			"user": 1,
+			"content_type": 12,
+			"object_id": "2",
+			"object_repr": "What is ASIC Mining?",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 49,
+		"fields": {
+			"action_time": "2025-02-22T17:46:13.091Z",
+			"user": 1,
+			"content_type": 12,
+			"object_id": "1",
+			"object_repr": "Is Bitcoin Mining Profitable in 2025?",
+			"action_flag": 2,
+			"change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u043e\\u0435 \\u0444\\u043e\\u0442\\u043e\"]}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 50,
+		"fields": {
+			"action_time": "2025-02-22T19:09:31.237Z",
+			"user": 1,
+			"content_type": 12,
+			"object_id": "3",
+			"object_repr": "Antminer S21 Pro",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 51,
+		"fields": {
+			"action_time": "2025-02-22T19:09:46.286Z",
+			"user": 1,
+			"content_type": 12,
+			"object_id": "4",
+			"object_repr": "M50S++ 164TH",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 52,
+		"fields": {
+			"action_time": "2025-02-24T11:42:21.368Z",
+			"user": 1,
+			"content_type": 10,
+			"object_id": "1",
+			"object_repr": "BTC",
+			"action_flag": 2,
+			"change_message": "[{\"changed\": {\"fields\": [\"\\u041d\\u0430\\u043f\\u0440\\u0438\\u043c\\u0435\\u0440 bitcoin\", \"URL\"]}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 53,
+		"fields": {
+			"action_time": "2025-02-24T11:42:30.477Z",
+			"user": 1,
+			"content_type": 10,
+			"object_id": "2",
+			"object_repr": "ETH",
+			"action_flag": 2,
+			"change_message": "[{\"changed\": {\"fields\": [\"\\u041d\\u0430\\u043f\\u0440\\u0438\\u043c\\u0435\\u0440 bitcoin\", \"URL\"]}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 54,
+		"fields": {
+			"action_time": "2025-02-24T11:55:24.951Z",
+			"user": 1,
+			"content_type": 11,
+			"object_id": "2",
+			"object_repr": "Blake3",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 55,
+		"fields": {
+			"action_time": "2025-02-24T11:55:37.368Z",
+			"user": 1,
+			"content_type": 8,
+			"object_id": "4",
+			"object_repr": "ICERIVER",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 56,
+		"fields": {
+			"action_time": "2025-02-24T11:56:05.535Z",
+			"user": 1,
+			"content_type": 10,
+			"object_id": "3",
+			"object_repr": "ALPH",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 57,
+		"fields": {
+			"action_time": "2025-02-24T11:56:26.808Z",
+			"user": 1,
+			"content_type": 9,
+			"object_id": "6",
+			"object_repr": "ICERIVER AL0 400 GH/s",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 58,
+		"fields": {
+			"action_time": "2025-02-24T12:07:05.384Z",
+			"user": 1,
+			"content_type": 9,
+			"object_id": "1",
+			"object_repr": "Antminer S21 Pro",
+			"action_flag": 2,
+			"change_message": "[{\"changed\": {\"fields\": [\"\\u041d\\u0430\\u043f\\u0438\\u0441\\u0430\\u0442\\u044c \\u0447\\u0442\\u043e \\u0442\\u043e \\u043e\\u0434\\u043d\\u043e: TH/s | GH/s | MH/s\"]}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 59,
+		"fields": {
+			"action_time": "2025-02-24T12:07:15.404Z",
+			"user": 1,
+			"content_type": 9,
+			"object_id": "6",
+			"object_repr": "ICERIVER AL0 400 GH/s",
+			"action_flag": 2,
+			"change_message": "[{\"changed\": {\"fields\": [\"\\u041d\\u0430\\u043f\\u0438\\u0441\\u0430\\u0442\\u044c \\u0447\\u0442\\u043e \\u0442\\u043e \\u043e\\u0434\\u043d\\u043e: TH/s | GH/s | MH/s\"]}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 60,
+		"fields": {
+			"action_time": "2025-02-24T12:25:12.278Z",
+			"user": 1,
+			"content_type": 10,
+			"object_id": "3",
+			"object_repr": "ALPH",
+			"action_flag": 2,
+			"change_message": "[{\"changed\": {\"fields\": [\"\\u041d\\u0430\\u043f\\u0440\\u0438\\u043c\\u0435\\u0440 bitcoin\", \"URL\"]}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 61,
+		"fields": {
+			"action_time": "2025-02-24T12:25:53.403Z",
+			"user": 1,
+			"content_type": 10,
+			"object_id": "3",
+			"object_repr": "ALPH",
+			"action_flag": 2,
+			"change_message": "[{\"changed\": {\"fields\": [\"\\u041d\\u0430\\u043f\\u0440\\u0438\\u043c\\u0435\\u0440 bitcoin\", \"URL\"]}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 62,
+		"fields": {
+			"action_time": "2025-02-24T18:05:15.547Z",
+			"user": 1,
+			"content_type": 15,
+			"object_id": "1",
+			"object_repr": "@abdurahman",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 63,
+		"fields": {
+			"action_time": "2025-02-24T18:05:24.139Z",
+			"user": 1,
+			"content_type": 15,
+			"object_id": "2",
+			"object_repr": "@momed",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 64,
+		"fields": {
+			"action_time": "2025-02-24T18:05:33.648Z",
+			"user": 1,
+			"content_type": 15,
+			"object_id": "3",
+			"object_repr": "@zelimhan",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 65,
+		"fields": {
+			"action_time": "2025-02-24T18:07:31.378Z",
+			"user": 1,
+			"content_type": 16,
+			"object_id": "1",
+			"object_repr": "╩юэЄръЄэр  шэЇюЁьрЎш ",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 66,
+		"fields": {
+			"action_time": "2025-02-24T18:40:37.756Z",
+			"user": 1,
+			"content_type": 16,
+			"object_id": "1",
+			"object_repr": "╩юэЄръЄэр  шэЇюЁьрЎш ",
+			"action_flag": 2,
+			"change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0435\\u043b\\u0435\\u0444\\u043e\\u043d\"]}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 67,
+		"fields": {
+			"action_time": "2025-02-25T13:19:20.357Z",
+			"user": 1,
+			"content_type": 8,
+			"object_id": "4",
+			"object_repr": "Iceriver",
+			"action_flag": 2,
+			"change_message": "[{\"changed\": {\"fields\": [\"\\u041d\\u0430\\u0437\\u0432\\u0430\\u043d\\u0438\\u0435 \\u0431\\u0440\\u0435\\u043d\\u0434\\u0430\"]}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 68,
+		"fields": {
+			"action_time": "2025-02-25T18:06:19.910Z",
+			"user": 1,
+			"content_type": 10,
+			"object_id": "4",
+			"object_repr": "LTC+DOGE",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 69,
+		"fields": {
+			"action_time": "2025-02-25T18:07:49.319Z",
+			"user": 1,
+			"content_type": 11,
+			"object_id": "3",
+			"object_repr": "Scrypt",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 70,
+		"fields": {
+			"action_time": "2025-02-25T18:08:04.625Z",
+			"user": 1,
+			"content_type": 8,
+			"object_id": "5",
+			"object_repr": "Fluminer",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 71,
+		"fields": {
+			"action_time": "2025-02-25T18:09:57.312Z",
+			"user": 1,
+			"content_type": 9,
+			"object_id": "7",
+			"object_repr": "Fluminer L1",
+			"action_flag": 1,
+			"change_message": "[{\"added\": {}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 72,
+		"fields": {
+			"action_time": "2025-02-25T18:10:16.334Z",
+			"user": 1,
+			"content_type": 9,
+			"object_id": "7",
+			"object_repr": "Fluminer L1",
+			"action_flag": 2,
+			"change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e\"]}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 73,
+		"fields": {
+			"action_time": "2025-02-25T18:10:42.122Z",
+			"user": 1,
+			"content_type": 10,
+			"object_id": "4",
+			"object_repr": "LTC+DOGE",
+			"action_flag": 2,
+			"change_message": "[{\"changed\": {\"fields\": [\"\\u041d\\u0430\\u043f\\u0440\\u0438\\u043c\\u0435\\u0440 bitcoin\", \"URL\"]}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 74,
+		"fields": {
+			"action_time": "2025-02-25T18:16:25.841Z",
+			"user": 1,
+			"content_type": 10,
+			"object_id": "4",
+			"object_repr": "LTC+DOGE",
+			"action_flag": 2,
+			"change_message": "[]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 75,
+		"fields": {
+			"action_time": "2025-02-25T18:16:31.676Z",
+			"user": 1,
+			"content_type": 10,
+			"object_id": "3",
+			"object_repr": "ALPH",
+			"action_flag": 2,
+			"change_message": "[{\"changed\": {\"fields\": [\"URL\"]}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 76,
+		"fields": {
+			"action_time": "2025-02-25T18:16:37.276Z",
+			"user": 1,
+			"content_type": 10,
+			"object_id": "2",
+			"object_repr": "ETH",
+			"action_flag": 2,
+			"change_message": "[{\"changed\": {\"fields\": [\"URL\"]}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 77,
+		"fields": {
+			"action_time": "2025-02-25T18:16:42.203Z",
+			"user": 1,
+			"content_type": 10,
+			"object_id": "1",
+			"object_repr": "BTC",
+			"action_flag": 2,
+			"change_message": "[{\"changed\": {\"fields\": [\"URL\"]}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 78,
+		"fields": {
+			"action_time": "2025-02-25T18:40:23.453Z",
+			"user": 1,
+			"content_type": 9,
+			"object_id": "6",
+			"object_repr": "ICERIVER AL0 400 GH/s",
+			"action_flag": 2,
+			"change_message": "[{\"changed\": {\"fields\": [\"\\u041c\\u043d\\u043e\\u0436\\u0438\\u0442\\u0435\\u043b\\u044c\"]}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 79,
+		"fields": {
+			"action_time": "2025-02-25T18:49:34.444Z",
+			"user": 1,
+			"content_type": 10,
+			"object_id": "4",
+			"object_repr": "LTC+DOGE",
+			"action_flag": 2,
+			"change_message": "[{\"changed\": {\"fields\": [\"\\u041d\\u0430\\u043f\\u0440\\u0438\\u043c\\u0435\\u0440 bitcoin\"]}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 80,
+		"fields": {
+			"action_time": "2025-02-25T18:49:38.761Z",
+			"user": 1,
+			"content_type": 10,
+			"object_id": "3",
+			"object_repr": "ALPH",
+			"action_flag": 2,
+			"change_message": "[{\"changed\": {\"fields\": [\"\\u041d\\u0430\\u043f\\u0440\\u0438\\u043c\\u0435\\u0440 bitcoin\"]}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 81,
+		"fields": {
+			"action_time": "2025-02-25T18:49:42.133Z",
+			"user": 1,
+			"content_type": 10,
+			"object_id": "2",
+			"object_repr": "ETH",
+			"action_flag": 2,
+			"change_message": "[]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 82,
+		"fields": {
+			"action_time": "2025-02-25T18:49:43.800Z",
+			"user": 1,
+			"content_type": 10,
+			"object_id": "1",
+			"object_repr": "BTC",
+			"action_flag": 2,
+			"change_message": "[]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 83,
+		"fields": {
+			"action_time": "2025-02-28T13:13:31.359Z",
+			"user": 1,
+			"content_type": 9,
+			"object_id": "7",
+			"object_repr": "Fluminer L1",
+			"action_flag": 2,
+			"change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u043e\\u043f\\u0443\\u043b\\u044f\\u0440\\u043d\\u044b\\u0439 \\u0430\\u0441\\u0438\\u043a\", \"\\u0414\\u043e\\u043c\\u0430\\u0448\\u043d\\u0438\\u0439 \\u0430\\u0441\\u0438\\u043a\", \"\\u041d\\u0430\\u0438\\u0431\\u043e\\u043b\\u044c\\u0448\\u0430\\u044f \\u0434\\u043e\\u0445\\u043e\\u0434\\u043d\\u043e\\u0441\\u0442\\u044c\"]}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 84,
+		"fields": {
+			"action_time": "2025-02-28T13:13:38.862Z",
+			"user": 1,
+			"content_type": 9,
+			"object_id": "6",
+			"object_repr": "ICERIVER AL0 400 GH/s",
+			"action_flag": 2,
+			"change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043e\\u043c\\u0430\\u0448\\u043d\\u0438\\u0439 \\u0430\\u0441\\u0438\\u043a\"]}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 85,
+		"fields": {
+			"action_time": "2025-02-28T13:13:48.725Z",
+			"user": 1,
+			"content_type": 9,
+			"object_id": "5",
+			"object_repr": "Antminer S19 XP",
+			"action_flag": 2,
+			"change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u0440\\u043e\\u0432\\u0435\\u0440\\u0435\\u043d\\u043d\\u0430\\u044f \\u043a\\u043b\\u0430\\u0441\\u0441\\u0438\\u043a\\u0430\"]}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 86,
+		"fields": {
+			"action_time": "2025-02-28T13:13:56.761Z",
+			"user": 1,
+			"content_type": 9,
+			"object_id": "3",
+			"object_repr": "Antminer S21 XP",
+			"action_flag": 2,
+			"change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u0440\\u043e\\u0432\\u0435\\u0440\\u0435\\u043d\\u043d\\u0430\\u044f \\u043a\\u043b\\u0430\\u0441\\u0441\\u0438\\u043a\\u0430\"]}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 87,
+		"fields": {
+			"action_time": "2025-03-02T19:53:51.928Z",
+			"user": 1,
+			"content_type": 16,
+			"object_id": "1",
+			"object_repr": "╩юэЄръЄэр  шэЇюЁьрЎш ",
+			"action_flag": 2,
+			"change_message": "[{\"changed\": {\"fields\": [\"\\u0421\\u0441\\u044b\\u043b\\u043a\\u0430 \\u043d\\u0430 OLX\"]}}]"
+		}
+	},
+	{
+		"model": "admin.logentry",
+		"pk": 88,
+		"fields": {
+			"action_time": "2025-03-05T00:31:57.263Z",
+			"user": 1,
+			"content_type": 16,
+			"object_id": "1",
+			"object_repr": "╩юэЄръЄэр  шэЇюЁьрЎш ",
+			"action_flag": 2,
+			"change_message": "[{\"changed\": {\"fields\": [\"\\u0421\\u0441\\u044b\\u043b\\u043a\\u0430 \\u043d\\u0430 \\u043f\\u0440\\u0430\\u0439\\u0441 \\u043b\\u0438\\u0441\\u0442 (google table)\"]}}]"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 1,
+		"fields": {
+			"name": "Can add log entry",
+			"content_type": 1,
+			"codename": "add_logentry"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 2,
+		"fields": {
+			"name": "Can change log entry",
+			"content_type": 1,
+			"codename": "change_logentry"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 3,
+		"fields": {
+			"name": "Can delete log entry",
+			"content_type": 1,
+			"codename": "delete_logentry"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 4,
+		"fields": {
+			"name": "Can view log entry",
+			"content_type": 1,
+			"codename": "view_logentry"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 5,
+		"fields": {
+			"name": "Can add permission",
+			"content_type": 2,
+			"codename": "add_permission"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 6,
+		"fields": {
+			"name": "Can change permission",
+			"content_type": 2,
+			"codename": "change_permission"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 7,
+		"fields": {
+			"name": "Can delete permission",
+			"content_type": 2,
+			"codename": "delete_permission"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 8,
+		"fields": {
+			"name": "Can view permission",
+			"content_type": 2,
+			"codename": "view_permission"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 9,
+		"fields": {
+			"name": "Can add group",
+			"content_type": 3,
+			"codename": "add_group"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 10,
+		"fields": {
+			"name": "Can change group",
+			"content_type": 3,
+			"codename": "change_group"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 11,
+		"fields": {
+			"name": "Can delete group",
+			"content_type": 3,
+			"codename": "delete_group"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 12,
+		"fields": {
+			"name": "Can view group",
+			"content_type": 3,
+			"codename": "view_group"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 13,
+		"fields": {
+			"name": "Can add user",
+			"content_type": 4,
+			"codename": "add_user"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 14,
+		"fields": {
+			"name": "Can change user",
+			"content_type": 4,
+			"codename": "change_user"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 15,
+		"fields": {
+			"name": "Can delete user",
+			"content_type": 4,
+			"codename": "delete_user"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 16,
+		"fields": {
+			"name": "Can view user",
+			"content_type": 4,
+			"codename": "view_user"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 17,
+		"fields": {
+			"name": "Can add content type",
+			"content_type": 5,
+			"codename": "add_contenttype"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 18,
+		"fields": {
+			"name": "Can change content type",
+			"content_type": 5,
+			"codename": "change_contenttype"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 19,
+		"fields": {
+			"name": "Can delete content type",
+			"content_type": 5,
+			"codename": "delete_contenttype"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 20,
+		"fields": {
+			"name": "Can view content type",
+			"content_type": 5,
+			"codename": "view_contenttype"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 21,
+		"fields": {
+			"name": "Can add session",
+			"content_type": 6,
+			"codename": "add_session"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 22,
+		"fields": {
+			"name": "Can change session",
+			"content_type": 6,
+			"codename": "change_session"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 23,
+		"fields": {
+			"name": "Can delete session",
+			"content_type": 6,
+			"codename": "delete_session"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 24,
+		"fields": {
+			"name": "Can view session",
+			"content_type": 6,
+			"codename": "view_session"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 25,
+		"fields": {
+			"name": "Can add faq",
+			"content_type": 7,
+			"codename": "add_faq"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 26,
+		"fields": {
+			"name": "Can change faq",
+			"content_type": 7,
+			"codename": "change_faq"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 27,
+		"fields": {
+			"name": "Can delete faq",
+			"content_type": 7,
+			"codename": "delete_faq"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 28,
+		"fields": {
+			"name": "Can view faq",
+			"content_type": 7,
+			"codename": "view_faq"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 29,
+		"fields": {
+			"name": "Can add brand",
+			"content_type": 8,
+			"codename": "add_brand"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 30,
+		"fields": {
+			"name": "Can change brand",
+			"content_type": 8,
+			"codename": "change_brand"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 31,
+		"fields": {
+			"name": "Can delete brand",
+			"content_type": 8,
+			"codename": "delete_brand"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 32,
+		"fields": {
+			"name": "Can view brand",
+			"content_type": 8,
+			"codename": "view_brand"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 33,
+		"fields": {
+			"name": "Can add asic",
+			"content_type": 9,
+			"codename": "add_asic"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 34,
+		"fields": {
+			"name": "Can change asic",
+			"content_type": 9,
+			"codename": "change_asic"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 35,
+		"fields": {
+			"name": "Can delete asic",
+			"content_type": 9,
+			"codename": "delete_asic"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 36,
+		"fields": {
+			"name": "Can view asic",
+			"content_type": 9,
+			"codename": "view_asic"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 37,
+		"fields": {
+			"name": "Can add coin",
+			"content_type": 10,
+			"codename": "add_coin"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 38,
+		"fields": {
+			"name": "Can change coin",
+			"content_type": 10,
+			"codename": "change_coin"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 39,
+		"fields": {
+			"name": "Can delete coin",
+			"content_type": 10,
+			"codename": "delete_coin"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 40,
+		"fields": {
+			"name": "Can view coin",
+			"content_type": 10,
+			"codename": "view_coin"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 41,
+		"fields": {
+			"name": "Can add algo",
+			"content_type": 11,
+			"codename": "add_algo"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 42,
+		"fields": {
+			"name": "Can change algo",
+			"content_type": 11,
+			"codename": "change_algo"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 43,
+		"fields": {
+			"name": "Can delete algo",
+			"content_type": 11,
+			"codename": "delete_algo"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 44,
+		"fields": {
+			"name": "Can view algo",
+			"content_type": 11,
+			"codename": "view_algo"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 45,
+		"fields": {
+			"name": "Can add paragraph",
+			"content_type": 13,
+			"codename": "add_paragraph"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 46,
+		"fields": {
+			"name": "Can change paragraph",
+			"content_type": 13,
+			"codename": "change_paragraph"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 47,
+		"fields": {
+			"name": "Can delete paragraph",
+			"content_type": 13,
+			"codename": "delete_paragraph"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 48,
+		"fields": {
+			"name": "Can view paragraph",
+			"content_type": 13,
+			"codename": "view_paragraph"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 49,
+		"fields": {
+			"name": "Can add ═ютюёЄ№",
+			"content_type": 12,
+			"codename": "add_news"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 50,
+		"fields": {
+			"name": "Can change ═ютюёЄ№",
+			"content_type": 12,
+			"codename": "change_news"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 51,
+		"fields": {
+			"name": "Can delete ═ютюёЄ№",
+			"content_type": 12,
+			"codename": "delete_news"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 52,
+		"fields": {
+			"name": "Can view ═ютюёЄ№",
+			"content_type": 12,
+			"codename": "view_news"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 53,
+		"fields": {
+			"name": "Can add ╧рЁруЁрЇ фы  эютюЄш",
+			"content_type": 14,
+			"codename": "add_newssection"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 54,
+		"fields": {
+			"name": "Can change ╧рЁруЁрЇ фы  эютюЄш",
+			"content_type": 14,
+			"codename": "change_newssection"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 55,
+		"fields": {
+			"name": "Can delete ╧рЁруЁрЇ фы  эютюЄш",
+			"content_type": 14,
+			"codename": "delete_newssection"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 56,
+		"fields": {
+			"name": "Can view ╧рЁруЁрЇ фы  эютюЄш",
+			"content_type": 14,
+			"codename": "view_newssection"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 57,
+		"fields": {
+			"name": "Can add telegram managers",
+			"content_type": 15,
+			"codename": "add_telegrammanagers"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 58,
+		"fields": {
+			"name": "Can change telegram managers",
+			"content_type": 15,
+			"codename": "change_telegrammanagers"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 59,
+		"fields": {
+			"name": "Can delete telegram managers",
+			"content_type": 15,
+			"codename": "delete_telegrammanagers"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 60,
+		"fields": {
+			"name": "Can view telegram managers",
+			"content_type": 15,
+			"codename": "view_telegrammanagers"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 61,
+		"fields": {
+			"name": "Can add ╩юэЄръЄ√",
+			"content_type": 16,
+			"codename": "add_contact"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 62,
+		"fields": {
+			"name": "Can change ╩юэЄръЄ√",
+			"content_type": 16,
+			"codename": "change_contact"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 63,
+		"fields": {
+			"name": "Can delete ╩юэЄръЄ√",
+			"content_type": 16,
+			"codename": "delete_contact"
+		}
+	},
+	{
+		"model": "auth.permission",
+		"pk": 64,
+		"fields": {
+			"name": "Can view ╩юэЄръЄ√",
+			"content_type": 16,
+			"codename": "view_contact"
+		}
+	},
+	{
+		"model": "auth.user",
+		"pk": 1,
+		"fields": {
+			"password": "pbkdf2_sha256$870000$haLfaEXWj4QzaH3aeYMUi3$XCGO7gHcFrz0o6dQCSxCa7gBnpLMIE3KvcV0JMT9h80=",
+			"last_login": "2025-02-24T11:42:06.718Z",
+			"is_superuser": true,
+			"username": "a",
+			"first_name": "",
+			"last_name": "",
+			"email": "",
+			"is_staff": true,
+			"is_active": true,
+			"date_joined": "2025-02-09T20:18:55.789Z",
+			"groups": [],
+			"user_permissions": []
+		}
+	},
+
+	{
+		"model": "sessions.session",
+		"pk": "a27w82h0o4xfa5fd3xy8t82l080ibsox",
+		"fields": {
+			"session_data": ".eJxVjMEOwiAQRP-FsyFLy1Lq0Xu_gbAsSNVAUtqT8d9tkx70Npn3Zt7C-W3NbmtxcTOLq1Di8tuRD89YDsAPX-5VhlrWZSZ5KPKkTU6V4-t2un8H2be8ry1qRaPRTBiSjiYyEvbjgAltzyolBALdI-MeQgKlOwugYDCmQ2QWny_WPzcO:1thDn9:bSmOzKOoLHNXfyGOrVtyWQz42iOfNcq1IGykpJbXowI",
+			"expire_date": "2025-02-23T20:20:35.135Z"
+		}
+	},
+	{
+		"model": "sessions.session",
+		"pk": "dlvs5kz2eeo9yu53e1w676wnuv6bq1as",
+		"fields": {
+			"session_data": ".eJxVjMEOwiAQRP-FsyFLy1Lq0Xu_gbAsSNVAUtqT8d9tkx70Npn3Zt7C-W3NbmtxcTOLq1Di8tuRD89YDsAPX-5VhlrWZSZ5KPKkTU6V4-t2un8H2be8ry1qRaPRTBiSjiYyEvbjgAltzyolBALdI-MeQgKlOwugYDCmQ2QWny_WPzcO:1tmWqc:rVJEwTEiIFCpcrURAZfoj80rU-ypbYAWIpz4FKov0Lg",
+			"expire_date": "2025-03-10T11:42:06.721Z"
+		}
+	},
+	{
+		"model": "api.faq",
+		"pk": 1,
+		"fields": {
+			"title": "┬шяЁюё√ў 1",
+			"description": "╬ЄтхЄ√ў 1"
+		}
+	},
+	{
+		"model": "api.faq",
+		"pk": 2,
+		"fields": {
+			"title": "┬юяЁюё 2",
+			"description": "╬ЄтхЄ 2"
+		}
+	},
+	{
+		"model": "api.faq",
+		"pk": 3,
+		"fields": {
+			"title": "aye",
+			"description": "aue"
+		}
+	},
+	{
+		"model": "api.brand",
+		"pk": 1,
+		"fields": {
+			"title": "Bitmain",
+			"slug": "bitmain"
+		}
+	},
+	{
+		"model": "api.brand",
+		"pk": 2,
+		"fields": {
+			"title": "MicroBT",
+			"slug": "microbt"
+		}
+	},
+	{
+		"model": "api.brand",
+		"pk": 3,
+		"fields": {
+			"title": "iPollo",
+			"slug": "ipollo"
+		}
+	},
+	{
+		"model": "api.brand",
+		"pk": 4,
+		"fields": {
+			"title": "Iceriver",
+			"slug": "iceriver"
+		}
+	},
+	{
+		"model": "api.brand",
+		"pk": 5,
+		"fields": {
+			"title": "Fluminer",
+			"slug": "fluminer"
+		}
+	},
+	{
+		"model": "api.coin",
+		"pk": 1,
+		"fields": {
+			"title": "BTC",
+			"api_title": "bitcoin",
+			"slug": "btc"
+		}
+	},
+	{
+		"model": "api.coin",
+		"pk": 2,
+		"fields": {
+			"title": "ETH",
+			"api_title": "ethereum",
+			"slug": "eth"
+		}
+	},
+	{
+		"model": "api.coin",
+		"pk": 3,
+		"fields": {
+			"title": "ALPH",
+			"api_title": "alephium",
+			"slug": "alph"
+		}
+	},
+	{
+		"model": "api.coin",
+		"pk": 4,
+		"fields": {
+			"title": "LTC+DOGE",
+			"api_title": "dogecoin",
+			"slug": "doge"
+		}
+	},
+	{
+		"model": "api.algo",
+		"pk": 1,
+		"fields": {
+			"title": "SHA256",
+			"slug": "sha256"
+		}
+	},
+	{
+		"model": "api.algo",
+		"pk": 2,
+		"fields": {
+			"title": "Blake3",
+			"slug": "blake3"
+		}
+	},
+	{
+		"model": "api.algo",
+		"pk": 3,
+		"fields": {
+			"title": "Scrypt",
+			"slug": "scrypt"
+		}
+	},
+	{
+		"model": "api.asic",
+		"pk": 1,
+		"fields": {
+			"full_title": "Antminer S21 Pro",
+			"title": "Antminer S21 Pro",
+			"hash": 234,
+			"hash_title": "Th",
+			"power": 3675,
+			"price_usdt": "6920",
+			"algo": "SHA256",
+			"algo_key": 1,
+			"brand": 1,
+			"coin": 1,
+			"hash_unit": "TH/s",
+			"multiplier": 1.0,
+			"hot": true,
+			"btc": true,
+			"popular": false,
+			"home_mining": false,
+			"classic": false,
+			"profitable": false,
+			"image": "asics_main_photo/placeholder-hardware.png",
+			"slug": "antminer-s21-pro"
+		}
+	},
+	{
+		"model": "api.asic",
+		"pk": 2,
+		"fields": {
+			"full_title": "M50S++ 164TH",
+			"title": "M50S++ 164TH",
+			"hash": 164,
+			"hash_title": "Th",
+			"power": 3600,
+			"price_usdt": "3100",
+			"algo": "SHA256",
+			"algo_key": 1,
+			"brand": 2,
+			"coin": 1,
+			"hash_unit": "",
+			"multiplier": 1.0,
+			"hot": false,
+			"btc": true,
+			"popular": false,
+			"home_mining": false,
+			"classic": false,
+			"profitable": false,
+			"image": "asics_main_photo/m2.png",
+			"slug": "m50s-164th"
+		}
+	},
+	{
+		"model": "api.asic",
+		"pk": 3,
+		"fields": {
+			"full_title": "Antminer S21 XP",
+			"title": "Antminer S21 XP",
+			"hash": 270,
+			"hash_title": "Th",
+			"power": 3825,
+			"price_usdt": "8595",
+			"algo": "SHA256",
+			"algo_key": 1,
+			"brand": 1,
+			"coin": 1,
+			"hash_unit": "",
+			"multiplier": 1.0,
+			"hot": false,
+			"btc": true,
+			"popular": false,
+			"home_mining": false,
+			"classic": true,
+			"profitable": false,
+			"image": "asics_main_photo/Antminer_S19_0.png",
+			"slug": "antminer-s21-xp"
+		}
+	},
+	{
+		"model": "api.asic",
+		"pk": 4,
+		"fields": {
+			"full_title": "Antminer S21",
+			"title": "Antminer S21",
+			"hash": 200,
+			"hash_title": "Th",
+			"power": 3675,
+			"price_usdt": "4795",
+			"algo": "SHA256",
+			"algo_key": 1,
+			"brand": 1,
+			"coin": 1,
+			"hash_unit": "",
+			"multiplier": 1.0,
+			"hot": false,
+			"btc": true,
+			"popular": false,
+			"home_mining": false,
+			"classic": false,
+			"profitable": false,
+			"image": "asics_main_photo/mainpage-asic.png",
+			"slug": "antminer-s21"
+		}
+	},
+	{
+		"model": "api.asic",
+		"pk": 5,
+		"fields": {
+			"full_title": "Antminer S19 XP",
+			"title": "Antminer S19 XP",
+			"hash": 141,
+			"hash_title": "Th",
+			"power": 3050,
+			"price_usdt": "1690",
+			"algo": "SHA256",
+			"algo_key": 1,
+			"brand": 1,
+			"coin": 1,
+			"hash_unit": "",
+			"multiplier": 1.0,
+			"hot": true,
+			"btc": true,
+			"popular": false,
+			"home_mining": false,
+			"classic": true,
+			"profitable": false,
+			"image": "asics_main_photo/placeholder-hardware_m8t0KQq.png",
+			"slug": "antminer-s19-xp"
+		}
+	},
+	{
+		"model": "api.asic",
+		"pk": 6,
+		"fields": {
+			"full_title": "ICERIVER ALPH AL0 400 GH/s",
+			"title": "ICERIVER AL0 400 GH/s",
+			"hash": 400,
+			"hash_title": "Gh",
+			"power": 100,
+			"price_usdt": "450",
+			"algo": "Blake3",
+			"algo_key": 2,
+			"brand": 4,
+			"coin": 3,
+			"hash_unit": "GH/s",
+			"multiplier": 2.0,
+			"hot": false,
+			"btc": false,
+			"popular": false,
+			"home_mining": true,
+			"classic": false,
+			"profitable": false,
+			"image": "asics_main_photo/11.png",
+			"slug": "iceriver-alph-al0-400-ghs"
+		}
+	},
+	{
+		"model": "api.asic",
+		"pk": 7,
+		"fields": {
+			"full_title": "Fluminer L1",
+			"title": "Fluminer L1",
+			"hash": 5300,
+			"hash_title": "Mh",
+			"power": 1200,
+			"price_usdt": "4000",
+			"algo": "Scrypt",
+			"algo_key": 3,
+			"brand": 5,
+			"coin": 4,
+			"hash_unit": "MH/s",
+			"multiplier": 1.0,
+			"hot": false,
+			"btc": false,
+			"popular": true,
+			"home_mining": true,
+			"classic": false,
+			"profitable": true,
+			"image": "asics_main_photo/l1.png",
+			"slug": "fluminer-l1"
+		}
+	},
+	{
+		"model": "api.paragraph",
+		"pk": 1,
+		"fields": {
+			"text": "Bitcoin mining is validating transactions on the Bitcoin network and adding them to the public ledger blockchain.",
+			"img": ""
+		}
+	},
+	{
+		"model": "api.paragraph",
+		"pk": 2,
+		"fields": {
+			"text": "Miners are rewarded for what they do with newly produced Bitcoins and transaction costs.",
+			"img": ""
+		}
+	},
+	{
+		"model": "api.paragraph",
+		"pk": 3,
+		"fields": {
+			"text": "Think of it as a digital gold rush. Instead of digging for gold, miners solve puzzles to earn Bitcoin. But just like gold mining, Bitcoin mining requires significant resources, including expensive hardware and electricity.",
+			"img": ""
+		}
+	},
+	{
+		"model": "api.paragraph",
+		"pk": 4,
+		"fields": {
+			"text": "Profitability is the lifeblood of Bitcoin mining. If the cost of mining (electricity, hardware, and maintenance) exceeds the value of the Bitcoin you earn, mining isnТt worth it. In the early days of Bitcoin, mining was relatively easy and profitable.",
+			"img": ""
+		}
+	},
+	{
+		"model": "api.paragraph",
+		"pk": 5,
+		"fields": {
+			"text": "You could even mine Bitcoin using your home computer! However, as more people joined the network, competition increased, and mining became more challenging and resource-intensive.",
+			"img": ""
+		}
+	},
+	{
+		"model": "api.paragraph",
+		"pk": 6,
+		"fields": {
+			"text": "Today, mining is dominated by big-scale operations with admission to cheap electricity and brand-new hardware. Profitability for male or female miners or small operations depends on carefully balancing costs and rewards. Knowing the factors influencing profitability is critical as we look ahead to 2025.",
+			"img": ""
+		}
+	},
+	{
+		"model": "api.paragraph",
+		"pk": 7,
+		"fields": {
+			"text": "Bitcoin mining has progressed considerably since its inception. Initially, mining was done using CPUs (central processing units) on regular computers.",
+			"img": ""
+		}
+	},
+	{
+		"model": "api.paragraph",
+		"pk": 8,
+		"fields": {
+			"text": "As the network grew, miners switched to GPUs (graphics processing units), which were faster and more efficient.",
+			"img": ""
+		}
+	},
+	{
+		"model": "api.paragraph",
+		"pk": 9,
+		"fields": {
+			"text": "Finally, specialized hardware known as ASICs (application-specific integrated circuits) was developed specifically for Bitcoin mining. These machines are mighty but also expensive and energy-hungry.",
+			"img": ""
+		}
+	},
+	{
+		"model": "api.paragraph",
+		"pk": 10,
+		"fields": {
+			"text": "Over the years, Bitcoin mining has become more aggressive and industrialized. Large mining farms dominate the landscape, frequently in areas with reasonably priced electricity.",
+			"img": ""
+		}
+	},
+	{
+		"model": "api.paragraph",
+		"pk": 11,
+		"fields": {
+			"text": "These farms use thousands of ASICs to mine Bitcoin at scale, making it difficult for male or female miners to compete. Additionally, the Bitcoin communityТs mining issue adjusts every two weeks, ensuring that blocks are added every 10 minutes.",
+			"img": ""
+		}
+	},
+	{
+		"model": "api.paragraph",
+		"pk": 12,
+		"fields": {
+			"text": "As extra miners become part of the community, the problem increases, making it harder to earn rewards.",
+			"img": ""
+		}
+	},
+	{
+		"model": "api.paragraph",
+		"pk": 13,
+		"fields": {
+			"text": "ASIC stands for УApplication-Specific Integrated Circuit.Ф Unlike regular computers or GPUs (Graphics Processing Units), ASICs are special devices made to do one job very well. In cryptocurrency, ASICs are designed to mine coins such as Bitcoin and Litecoin. Mining means solving math problems to verify transactions and add them to a blockchain.",
+			"img": ""
+		}
+	},
+	{
+		"model": "api.paragraph",
+		"pk": 14,
+		"fields": {
+			"text": "So, why are ASIC miners so important? Well, for starters, theyТre very efficient. They are machines built specifically for mining and, therefore, can mine blocks much faster and use much less electricity than other forms of mining.",
+			"img": ""
+		}
+	},
+	{
+		"model": "api.paragraph",
+		"pk": 15,
+		"fields": {
+			"text": "But itТs not all sunshine and rainbows with ASIC mining. There are certainly some cons to consider: high costs and environmental concerns, to name a few.",
+			"img": ""
+		}
+	},
+	{
+		"model": "api.paragraph",
+		"pk": 16,
+		"fields": {
+			"text": "1. CPU Mining: This is the oldest method; miners use a computerТs central processing unit (CPU) to mine cryptocurrency. While accessible and straightforward, CPU mining is painfully slow and inefficient for modern cryptocurrencies.",
+			"img": ""
+		}
+	},
+	{
+		"model": "api.paragraph",
+		"pk": 17,
+		"fields": {
+			"text": "2. GPU Mining: Graphics Processing Units (GPUs), usually used for gaming, have made mining much faster and better than CPUs. These are more flexible and can mine different types of cryptocurrencies. But, they are not as efficient as ASICs.",
+			"img": ""
+		}
+	},
+	{
+		"model": "api.paragraph",
+		"pk": 18,
+		"fields": {
+			"text": "3. FPGA Mining: Field-Programmable Gate Arrays (FPGAs) were a compromise between GPUs and ASICs. They offered a balance between the two. They offered better performance and were reprogrammable, but they couldnТt compete with ASICs regarding speed and energy efficiency.",
+			"img": ""
+		}
+	},
+	{
+		"model": "api.newssection",
+		"pk": 1,
+		"fields": {
+			"title": "What is Bitcoin Mining?",
+			"paragraph": [1, 2, 3]
+		}
+	},
+	{
+		"model": "api.newssection",
+		"pk": 2,
+		"fields": {
+			"title": "Why Profitability Matters in Bitcoin Mining",
+			"paragraph": [4, 5, 6]
+		}
+	},
+	{
+		"model": "api.newssection",
+		"pk": 3,
+		"fields": {
+			"title": "The Evolution of Bitcoin Mining A Brief History of Bitcoin Mining",
+			"paragraph": [7, 8, 9]
+		}
+	},
+	{
+		"model": "api.newssection",
+		"pk": 4,
+		"fields": {
+			"title": "How Mining Has Changed Over the Years",
+			"paragraph": [10, 11, 12]
+		}
+	},
+	{
+		"model": "api.newssection",
+		"pk": 5,
+		"fields": {
+			"title": "What is ASIC Mining?",
+			"paragraph": [13, 14, 15]
+		}
+	},
+	{
+		"model": "api.newssection",
+		"pk": 6,
+		"fields": {
+			"title": "How ASIC Mining Differs from Other Mining Methods",
+			"paragraph": [16, 17, 18]
+		}
+	},
+	{
+		"model": "api.news",
+		"pk": 1,
+		"fields": {
+			"title": "Is Bitcoin Mining Profitable in 2025?",
+			"description": "However, as we look ahead to 2025, many question whether Bitcoin mining is profitable. The answer isnТt truthful.\r\nIt depends on various factors, from BitcoinТs Price to the cost of electricity and the efficiency of mining hardware.\r\n\r\nIn this blog, weТll explore what Bitcoin mining is, why profitability matters, and the key factors determining whether mining Bitcoin in 2025 is worth your time and money.",
+			"img": "news/n2.png",
+			"date": "2025-02-22T17:22:46.649Z",
+			"published": true,
+			"slug": "is-bitcoin-mining-profitable-in-2025",
+			"sections": [1, 2, 3, 4]
+		}
+	},
+	{
+		"model": "api.news",
+		"pk": 2,
+		"fields": {
+			"title": "What is ASIC Mining?",
+			"description": "While many methods exist to mine cryptocurrency, ASIC mining has become a dominant force in the industry. Why? Because it offers unparalleled efficiency and power.\r\n\r\nHowever, to truly appreciate ASIC mining, we must first understand what it is and how it stands out from other mining methods.",
+			"img": "news/n1.png",
+			"date": "2025-02-22T17:25:47.396Z",
+			"published": true,
+			"slug": "what-is-asic-mining",
+			"sections": [5, 6]
+		}
+	},
+	{
+		"model": "api.news",
+		"pk": 3,
+		"fields": {
+			"title": "Antminer S21 Pro",
+			"description": "Cryptocurrency mining is the process of validating transactions and adding them to the blockchain, a decentralized digital ledger. Miners use increasingly powerful computational systems to solve complex mathematical puzzles, and in return, they are rewarded with cryptocurrencies.",
+			"img": "news/n2_pCqnbbG.png",
+			"date": "2025-02-22T19:09:31.235Z",
+			"published": true,
+			"slug": "antminer-s21-pro",
+			"sections": [1, 2, 3, 4, 5, 6]
+		}
+	},
+	{
+		"model": "api.news",
+		"pk": 4,
+		"fields": {
+			"title": "M50S++ 164TH",
+			"description": "So, why are ASIC miners so important? Well, for starters, theyТre very efficient. They are machines built specifically for mining and, therefore, can mine blocks much faster and use much less electricity than other forms of mining.",
+			"img": "news/n2_KCA8izj.png",
+			"date": "2025-02-22T19:09:46.284Z",
+			"published": true,
+			"slug": "m50s-164th",
+			"sections": [3, 4, 5, 6]
+		}
+	},
+	{
+		"model": "api.telegrammanagers",
+		"pk": 1,
+		"fields": {
+			"title": "@abdurahman",
+			"link": "https://www.cryptohall24.com/asic-miner-kaufen"
+		}
+	},
+	{
+		"model": "api.telegrammanagers",
+		"pk": 2,
+		"fields": {
+			"title": "@momed",
+			"link": "https://www.cryptohall24.com/asic-miner-kaufen"
+		}
+	},
+	{
+		"model": "api.telegrammanagers",
+		"pk": 3,
+		"fields": {
+			"title": "@zelimhan",
+			"link": "https://www.cryptohall24.com/asic-miner-kaufen"
+		}
+	},
+	{
+		"model": "api.contact",
+		"pk": 1,
+		"fields": {
+			"facebook": "https://www.cryptohall24.com/asic-miner-kaufen",
+			"instagram": "https://www.cryptohall24.com/asic-miner-kaufen",
+			"telegram": "https://www.cryptohall24.com/asic-miner-kaufen",
+			"olx": "https://www.cryptohall24.com/asic-miner-kaufen",
+			"price_list": "https://chat.deepseek.com",
+			"mail": "aye228@scam.net",
+			"phone": "380 9999999999",
+			"address": "1600 Amphitheatre Parkway, ╠рєэЄшэ-┬№■, ╩рышЇюЁэш , ╤╪└, 94043",
+			"img": "contacts/map.png",
+			"managers": [1, 2, 3]
+		}
+	}
+]

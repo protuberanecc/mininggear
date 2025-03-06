@@ -1,0 +1,5 @@
+.menu__btn__svg {
+	stroke: var(--light-color);
+	width: clamp(10px, calc(var(--index) * 2), 25px);
+	cursor: pointer;
+}

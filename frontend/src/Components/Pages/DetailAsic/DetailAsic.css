@@ -1,0 +1,133 @@
+.asic__detail__card {
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+.asic__detail__card__grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-column-gap: calc(var(--index) * 2);
+	width: 70%;
+	margin: 0 auto;
+}
+
+.asic__detail__name {
+	width: 70%;
+	margin: 0 auto;
+	text-align-last: left;
+	margin-bottom: 20px;
+}
+
+.main__property__container {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+
+.prop__con {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	position: relative;
+	padding: calc(var(--index) * 0.5) 0;
+}
+
+.profit__con {
+	position: relative;
+	padding: calc(var(--index) * 0.7) 0;
+}
+
+.asic__detail__card__left {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: var(--black-color);
+	min-height: clamp(250px, calc(var(--index) * 20), 500px);
+	min-width: clamp(250px, calc(var(--index) * 20), 500px);
+	border-radius: 20px;
+}
+
+.asic__detail__card__left img {
+	width: 70%;
+}
+
+.asic__detail__card__right {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	gap: 20px;
+}
+
+.property__item {
+	display: flex;
+	gap: 10px;
+	padding: calc(var(--index) * 0.3);
+	align-items: center;
+}
+
+.property__item p {
+	font-family: 'regular4';
+	font-weight: bold;
+}
+
+.main_props {
+	position: absolute;
+	left: 0;
+	top: -11%;
+	transform: translateY(11%);
+	font-family: 'bold1';
+	font-weight: bold;
+	font-size: calc(var(--text-size) * 0.6);
+	width: 100%;
+}
+
+.main_props::after {
+	content: '';
+	width: 87%;
+	height: 1px;
+	background: #000;
+	border-radius: 50%;
+	position: absolute;
+	top: 50%;
+	left: 13%;
+	transform: translateY(-50%);
+	opacity: 0.3;
+}
+
+.price__detail__ {
+	font-weight: bold;
+	font-size: calc(var(--text-size) * 1.4);
+}
+
+.detail__button__buy {
+	all: unset;
+	background: var(--main-color);
+	color: #fff;
+	text-align: center;
+	padding: calc(var(--index) * 0.5);
+	border-radius: 7px;
+	cursor: pointer;
+	font-family: 'bold1';
+	font-weight: bold;
+	letter-spacing: 1px;
+
+	&:hover {
+		background: var(--main-color-hover);
+	}
+}
+
+@media (max-width: 1331px) {
+	.asic__detail__card__grid {
+		grid-template-columns: 1fr;
+		grid-row-gap: clamp(20px, calc(var(--index) * 0.5), 40px);
+	}
+}
+
+@media (max-width: 900px) {
+	.asic__detail__card__grid {
+		width: 95%;
+	}
+
+	.asic__detail__name {
+		width: 95%;
+	}
+}

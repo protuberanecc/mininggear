@@ -1,0 +1,7 @@
+.content {
+	max-width: 1780px;
+	background: var(--light-color);
+	display: block;
+	margin: 0 auto;
+	transition: 0.2s;
+}

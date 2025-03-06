@@ -1,0 +1,51 @@
+.language__choice {
+	background: var(--main-color);
+	width: fit-content;
+	border-radius: 3px;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: clamp(40px, calc(var(--index) * 3), 62px);
+}
+
+.language__choice ul {
+	list-style: none;
+	width: 100%;
+}
+
+.language__choice button {
+	all: unset;
+}
+
+.language__choice ul li,
+.language__choice button {
+	font-family: 'bold1';
+	font-size: clamp(7px, 10px, 15px);
+	padding: clamp(7px, calc(var(--index) * 3), 10px)
+		clamp(7px, calc(var(--index) * 3), 15px);
+	cursor: pointer;
+	text-align: center;
+	width: 100%;
+
+	&:hover {
+		background: var(--black-color);
+		color: #fff;
+	}
+}
+
+.lchoice__container {
+	position: relative;
+	width: clamp(40px, calc(var(--index) * 3), 64px);
+	height: clamp(22px, calc(var(--index) * 3), 33px);
+	z-index: 999999;
+}
+
+@media (max-width: 500px) {
+	.language__choice ul li {
+		list-style: none;
+		width: 100%;
+		text-align: center;
+		padding: calc(var(--index) * 0.7) calc(var(--index) * 1);
+	}
+}

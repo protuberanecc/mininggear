@@ -1,0 +1,5 @@
+.error__form {
+	font-size: var(--text-size);
+	color: #ff5100;
+	font-family: 'regular4';
+}

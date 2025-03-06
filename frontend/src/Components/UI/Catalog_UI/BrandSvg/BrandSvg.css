@@ -1,0 +1,30 @@
+.svg__brand {
+	border-radius: 10px;
+	overflow: hidden;
+	width: fit-content;
+	border: 1px solid var(--black-color-rgba);
+	cursor: pointer;
+	height: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: var(--light-color);
+	padding: calc(var(--index) * 0.8) calc(var(--index) * 2);
+	transition: 0.2s;
+
+	&:hover {
+		background: var(--black-color);
+		transition: 0.2s;
+	}
+}
+
+.svg__brand:hover h1 {
+	color: var(--main-color);
+	transition: 0.2s;
+}
+
+.svg__brand h1 {
+	font-size: calc(var(--text-size) * 1.4);
+	text-transform: uppercase;
+	transition: 0.2s;
+}

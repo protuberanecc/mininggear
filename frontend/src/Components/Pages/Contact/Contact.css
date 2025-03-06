@@ -1,0 +1,56 @@
+.contact__section {
+	padding: calc(var(--index) * 1);
+}
+
+.contact__section h1 {
+	font-size: calc(var(--text-size) * 4);
+}
+
+.contact__section__content {
+	display: flex;
+	flex-direction: column;
+	gap: calc(var(--index) * 1);
+}
+
+.contact__info__item {
+	display: flex;
+	flex-direction: column;
+	gap: calc(var(--index) * 0.5);
+}
+
+.contact__info__item ul {
+	display: flex;
+	flex-direction: column;
+	gap: calc(var(--index) * 0.3);
+	list-style: none;
+}
+
+.contact__info__item ul li {
+	display: flex;
+	gap: calc(var(--index) * 0.3);
+	list-style: none;
+}
+
+.contact__info__item p {
+	font-family: 'regular4';
+	font-weight: bold;
+	font-size: calc(var(--text-size) * 1.2);
+}
+
+.contact__info__item h2 {
+	font-size: calc(var(--text-size) * 1.5);
+}
+
+.contact__info__item a {
+	text-decoration: none;
+	font-family: 'regular4';
+	font-weight: bold;
+	font-size: calc(var(--text-size) * 1.2);
+	&:hover {
+		color: var(--main-color);
+	}
+}
+
+.contact__info__item img {
+	width: 100%;
+}

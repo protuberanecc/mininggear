@@ -1,0 +1,80 @@
+.filter__container__con {
+	display: flex;
+	flex-direction: column;
+	gap: calc(var(--index) * 0.5);
+	padding: calc(var(--index) * 1);
+	background: var(--black-color);
+	border-radius: 10px;
+	position: sticky;
+	top: 5%;
+	left: 0;
+}
+
+.filter__container__con h2,
+.filter__container__con div {
+	color: #fff;
+}
+
+.input__cost__con {
+	margin-top: 5px;
+	display: flex;
+	gap: 10px;
+}
+
+.input__cost__con input {
+	font-size: clamp(14px, calc(var(--text-size) * 1), 16px);
+	font-family: 'regular4';
+	font-weight: bold;
+	padding: calc(var(--index) * 0.3);
+}
+
+.filter-item {
+	padding-left: 30px;
+	margin-top: 8px;
+	cursor: pointer;
+	font-family: 'regular4';
+	font-size: clamp(14px, calc(var(--text-size) * 1), 16px);
+	font-weight: bold;
+	position: relative;
+	width: fit-content;
+}
+
+.filter-item::before {
+	content: '';
+	width: 10px;
+	height: 10px;
+	border: 2px solid var(--main-color);
+	position: absolute;
+	left: 10px;
+	top: 45%;
+	transform: translateY(-50%);
+}
+
+.filter-item.activ__filter__item::before {
+	background: var(--main-color);
+}
+
+.reset-all::before {
+	all: unset;
+}
+
+.reset-all {
+	padding: unset;
+	background: var(--main-color);
+	display: block;
+	width: fit-content;
+	color: #fff;
+	padding: clamp(10px, calc(var(--index) * 0.5), 30px)
+		clamp(15px, calc(var(--index) * 1), 50px);
+	border-radius: 5px;
+
+	&:hover {
+		background: var(--main-color-hover);
+	}
+}
+
+@media (max-width: 600px) {
+	.media-cost-filter {
+		display: none;
+	}
+}

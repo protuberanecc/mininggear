@@ -1,0 +1,64 @@
+#loader__color {
+	stroke: var(--main-color);
+	fill: var(--main-color);
+	animation: rotate_logo 10s linear infinite;
+}
+
+.loader__text p {
+	font-size: var(--text-size);
+	font-family: 'bold1';
+	font-weight: bold;
+	color: var(--main-color);
+	position: relative;
+}
+
+.loader__position__container {
+	min-width: 100%;
+	min-height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.loader__content_container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.loader__text p::after {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	right: -25px;
+	animation: dots 1.5s infinite;
+}
+
+@keyframes dots {
+	0% {
+		content: '';
+	}
+
+	25% {
+		content: '.';
+	}
+
+	50% {
+		content: '. .';
+	}
+
+	75% {
+		content: '. . .';
+	}
+}
+
+@keyframes rotate_logo {
+	from {
+		rotate: 0;
+	}
+
+	to {
+		rotate: 360deg;
+	}
+}

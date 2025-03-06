@@ -1,0 +1,6 @@
+.login__themebtn__container {
+	display: flex;
+	align-items: center;
+	gap: clamp(7px, calc(var(--index) * 0.5), 15px);
+	cursor: pointer;
+}

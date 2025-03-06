@@ -1,0 +1,7 @@
+.theme__btn {
+	width: clamp(15px, 30px, 35px);
+	height: clamp(15px, 30px, 35px);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

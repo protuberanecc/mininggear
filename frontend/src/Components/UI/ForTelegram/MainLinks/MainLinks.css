@@ -1,0 +1,22 @@
+.for__telegram__main__page__item {
+	width: 100%;
+	background: var(--main-color);
+	position: relative;
+	padding: calc(var(--index) * 1);
+	min-height: 30vh;
+	display: block;
+	text-decoration: none;
+	border-radius: 5px;
+	overflow: hidden;
+}
+
+.for__telegram__main__page__item img {
+	width: 55%;
+	position: absolute;
+	bottom: 0%;
+	right: 0%;
+}
+
+.for__telegram__main__page__item h1 {
+	font-size: calc(var(--text-size) * 3);
+}

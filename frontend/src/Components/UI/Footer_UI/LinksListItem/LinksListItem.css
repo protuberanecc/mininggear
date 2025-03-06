@@ -1,0 +1,21 @@
+.links__list__item {
+	list-style: none;
+	display: flex;
+	align-items: center;
+	gap: 5px;
+}
+
+.links__list__item img {
+	width: 20px;
+}
+
+.links__list__item a {
+	text-decoration: none;
+	color: var(--static-light);
+	font-size: var(--text-size);
+	font-family: 'regular4';
+
+	&:hover {
+		color: var(--main-color);
+	}
+}

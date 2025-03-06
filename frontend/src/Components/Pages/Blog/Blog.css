@@ -1,0 +1,24 @@
+.blog__section {
+	padding: calc(var(--index) * 1);
+}
+
+.blog__section__content {
+	display: grid;
+	width: fit-content;
+	margin: 0 auto;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-column-gap: clamp(15px, calc(var(--index) * 0.5), 30px);
+	grid-row-gap: clamp(15px, calc(var(--index) * 0.5), 30px);
+}
+
+@media (max-width: 1150px) {
+	.blog__section__content {
+		grid-template-columns: 1fr 1fr;
+	}
+}
+
+@media (max-width: 650px) {
+	.blog__section__content {
+		grid-template-columns: 1fr;
+	}
+}

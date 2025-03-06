@@ -1,0 +1,45 @@
+.light__filter__container {
+	display: flex;
+	gap: 10px;
+	margin-bottom: 20px;
+	flex-wrap: wrap;
+}
+
+.light__filter__item {
+	font-family: 'bold1';
+	font-size: calc(var(--text-size) * 0.9);
+	cursor: pointer;
+	padding: calc(var(--index) * 0.4) calc(var(--index) * 1);
+	border: 1px solid var(--black-color-rgba);
+	border-radius: calc(var(--index) * 0.1);
+}
+
+.light__filter__item:hover {
+	background-color: var(--main-color);
+	color: var(--black-color);
+}
+
+.light__filter__item__active {
+	background-color: var(--main-color);
+	color: var(--black-color);
+	border-color: var(--main-color);
+}
+
+@media (max-width: 500px) {
+	.light__filter__container {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		grid-template-rows: clamp(10px, calc(var(--index) * 3.5), 60px) clamp(
+				10px,
+				calc(var(--index) * 3.5),
+				60px
+			);
+	}
+
+	.light__filter__item {
+		text-align: center;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+}

@@ -1,0 +1,19 @@
+.login__header__btn {
+	font-family: 'bold1';
+	font-weight: bold;
+	border-radius: clamp(3px, calc(var(--index) * 0.2), 10px);
+	text-decoration: none;
+	font-size: clamp(10px, calc(var(--index) * 0.5), 17px);
+	padding: clamp(5px, calc(var(--index) * 0.5), 15px)
+		clamp(10px, calc(var(--index) * 1), 30px);
+	background: var(--gradient);
+	transition: 0.3s;
+	color: var(--static-black);
+	width: fit-content;
+	display: block;
+
+	&:hover {
+		background: var(--gradient-hover);
+		transition: 0.3s;
+	}
+}

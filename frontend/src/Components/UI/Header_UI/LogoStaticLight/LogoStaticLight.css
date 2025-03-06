@@ -1,0 +1,6 @@
+.logo__svg__static__light {
+	width: clamp(30px, calc(var(--index) * 2), 70px);
+	height: clamp(30px, calc(var(--index) * 2), 70px);
+	fill: var(--static-light);
+	stroke: var(--static-light);
+}

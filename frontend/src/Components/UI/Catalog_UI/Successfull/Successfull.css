@@ -1,0 +1,27 @@
+.successful-notification {
+	padding: calc(var(--index) * 3);
+	display: flex;
+	flex-direction: column;
+	gap: calc(var(--index) * 1);
+	background: (var(--main-color));
+}
+
+.successful-notification h1 {
+	text-align: center;
+	font-size: calc(var(--text-size) * 2);
+}
+
+.successful-notification button {
+	all: unset;
+	cursor: pointer;
+	padding: calc(var(--index) * 0.3) calc(var(--index) * 1.5);
+	border: 3px solid var(--black-color);
+	width: fit-content;
+	display: block;
+	margin: 0 auto;
+	font-family: 'bold1';
+	color: var(--black-color);
+	border-radius: 5px;
+	font-weight: bold;
+	font-size: calc(var(--text-size) * 1);
+}

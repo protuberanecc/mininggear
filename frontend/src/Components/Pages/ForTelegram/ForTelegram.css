@@ -1,0 +1,5 @@
+.for__telegram__main__page {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+}

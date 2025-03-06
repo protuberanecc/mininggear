@@ -1,0 +1,62 @@
+.main__page__card {
+	background: var(--light-gradient);
+	padding: calc(var(--index) * 2.5) calc(var(--index) * 0.5);
+	border-radius: 5px;
+	border: 1px solid var(--light-color-rgba);
+	position: relative;
+	overflow: hidden;
+	display: grid;
+	grid-template-columns: 0.4fr 0.6fr;
+
+	&:hover::after {
+		bottom: 0px;
+		right: 0px;
+		transition: ease 0.15s;
+	}
+}
+
+.main__page__card::after {
+	content: '';
+	width: 70px;
+	height: 70px;
+	background: var(--gradient);
+	border-radius: 50%;
+	position: absolute;
+	bottom: -170px;
+	right: -170px;
+	filter: blur(70px);
+	transition: ease 0.15s;
+}
+
+.main__page__card img {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 40%;
+	opacity: 0.8;
+	filter: grayscale(100%);
+	transition: 0.2s;
+}
+
+.main__page__card:hover .main__page__card__image {
+	opacity: 1;
+	filter: grayscale(0%);
+	transition: 0.2s;
+}
+
+.main__page__card__text {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	grid-column: 2;
+}
+
+.main__page__card__text h2,
+.main__page__card__text p {
+	color: var(--light-color);
+}
+
+.main__page__card__text p {
+	font-size: var(--text-size);
+	line-height: 1.75;
+}

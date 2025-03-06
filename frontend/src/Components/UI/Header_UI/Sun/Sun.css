@@ -1,0 +1,10 @@
+.theme__sun {
+	stroke: var(--black-color);
+	width: clamp(10px, calc(var(--index) * 1), 20px);
+	height: clamp(10px, calc(var(--index) * 1), 20px);
+}
+
+.theme__sun path {
+	stroke: var(--black-color);
+	fill: var(--black-color);
+}

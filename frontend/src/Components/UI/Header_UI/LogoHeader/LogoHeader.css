@@ -1,0 +1,19 @@
+.logo__container {
+	display: flex;
+	align-items: center;
+	gap: clamp(0px, calc(var(--index) * 0.5), 30px);
+}
+
+.logo__title {
+	font-family: 'bold1';
+	font-size: clamp(24px, calc(var(--index) * 2), 50px);
+	color: var(--static-light);
+}
+
+.logo__title__light {
+	color: var(--static-light);
+}
+
+.telegram__layout__header {
+	color: var(--main-color);
+}

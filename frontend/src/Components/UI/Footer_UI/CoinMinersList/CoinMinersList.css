@@ -1,0 +1,17 @@
+.footer__title__links__list {
+	font-size: var(--text-size);
+	color: var(--static-light);
+	font-family: 'regular4';
+	font-weight: bold;
+	list-style: none;
+}
+
+.footer__grid__links {
+	display: grid !important;
+	grid-template-columns: 1fr 1fr;
+}
+
+.footer__grid__links li:first-child {
+	grid-column-start: 1;
+	grid-column-end: 3;
+}

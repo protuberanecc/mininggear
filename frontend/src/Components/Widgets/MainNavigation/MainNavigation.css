@@ -1,0 +1,10 @@
+.main__header__navigation {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 1%;
+	background: var(--black-color);
+}
+
+@media (max-width: 1190px) {
+}
