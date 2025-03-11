@@ -23,14 +23,17 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-+l%lhr35cadw^dd59a(ggvs6n$um9riamvjzqk_#nt8%^34o&1'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['mining-gear-ua.com', 'http://mining-gear-ua.com', 'https://mining-gear-ua.com', 'www.mining-gear-ua.com', '95.140.146.216']
 
-CORS_ALLOWED_ORIGINS = [
-    'http://localhost:5173',
-    'http://192.168.1.10:5173',
-]
+CORS_ALLOW_ALL_ORIGINS = True
+
+#CORS_ALLOWED_ORIGINS = [
+#    'http://localhost:5173',
+#    'http://192.168.1.10:5173',
+#    'http://95.140.146.216:5173',
+#]
 
 
 # Application definition
